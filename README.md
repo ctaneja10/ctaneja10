@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-### 👨‍💻 Frontend Web Developer
+### 👨‍💻 Django Web Developer
 ### ⚡ Tech Content Creator
 ### 💼 Open To Job Opportunities
-### 🌎 rammaheshwari.com
+### 🌎 chetantaneja.netlify.app
