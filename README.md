@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 rammaheshwari.com <br>
+👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 chetantaneja.netlify.app <br>
 
 
 ## 🌐 Socials:
