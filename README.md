@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Enthusiast<br>💼 Open To Job Opportunities<br>🌎 chetantaneja.netlify.app<br><br>
+👨‍💻 Django Web Developer<br>⚡ Tech Enthusiast<br>💼 Open To Job Opportunities<br>🌎 chetantaneja.netlify.app<br><br>
 
 
 ## 🌐 Socials:
