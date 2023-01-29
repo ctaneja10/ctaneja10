@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 💫 About Me:
 #### 👨‍💻 Django Web Developer
-####⚡ Tech Content Creator
+#### ⚡ Tech Content Creator
 #### 💼 Open To Job Opportunities
 #### 🌎 chetantaneja.netlify.app
