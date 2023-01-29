@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Django Web Developer<br>⚡ Tech Enthusiast<br>💼 Open To Job Opportunities<br>🌎 chetantaneja.netlify.app<br><br>
+👨‍💻 Frontend Web Developer<br>⚡ Tech Enthusiast<br>💼 Open To Job Opportunities<br>🌎 chetantaneja.netlify.app<br><br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ctaneja10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
