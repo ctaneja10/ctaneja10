@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 #### ⚡ Tech Content Creator
 #### 💼 Open To Job Opportunities
 #### 🌎 chetantaneja.netlify.app
+
+🌐 Socials:
