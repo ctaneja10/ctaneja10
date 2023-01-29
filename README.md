@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💫 About Me:
+### 💫 About Me:
 - 👨‍💻 Frontend Web Developer
 - ⚡ Tech Content Creator
 - 💼 Open To Job Opportunities
